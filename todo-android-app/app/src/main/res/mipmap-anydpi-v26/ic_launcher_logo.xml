@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <group
+        android:scaleX="0.9"
+        android:scaleY="0.9"
+        android:translateX="25"
+        android:translateY="25">
+        
+        <!-- Top-Left Dash (Dark Blue) -->
+        <path
+            android:fillColor="#163A75"
+            android:pathData="M 7 31 C 12 30, 15 31, 18 33 A 2 2 0 0 1 17 37 C 14 35, 11 34, 6 35 A 2 2 0 0 1 7 31 Z" />
+
+        <!-- Main Sweeping Arrow (Dark Blue) -->
+        <path
+            android:fillColor="#163A75"
+            android:pathData="M 40 16 L 37 29 L 34 26 C 29 36, 22 42, 12 42 A 2 2 0 0 1 12 38 C 20 38, 26 31, 30 22 L 27 19 Z" />
+
+        <!-- Floating Checkmark (Light Blue / Teal) -->
+        <path
+            android:fillColor="#1CB8D3"
+            android:pathData="M 44 22 A 2.1 2.1 0 0 0 41 25 L 48 32 L 60 20 A 2.1 2.1 0 0 0 57 17 L 48 26 Z" />
+
+        <!-- Lower Swoosh ribbon (Light Blue / Teal) -->
+        <path
+            android:fillColor="#1CB8D3"
+            android:pathData="M 25 41 C 35 50, 50 46, 58 32 A 2.2 2.2 0 0 0 54 29 C 48 42, 35 45, 27 37 A 2.2 2.2 0 0 0 25 41 Z" />
+    </group>
+</vector>

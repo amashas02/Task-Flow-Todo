@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="80dp"
+    android:height="80dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#2488B7"
+        android:pathData="M12,14c-4.42,0-8,3.58-8,8v1h16v-1c0-4.42-3.58-8-8-8z"/>
+    <path
+        android:fillColor="#1C6D93"
+        android:pathData="M12,12c2.76,0,5-2.24,5-5S14.76,2,12,2S7,4.24,7,7s2.24,5,5,5z"/>
+    <!-- Cute hair detail -->
+    <path
+        android:fillColor="#2488B7"
+        android:pathData="M12,1c-3.31,0-6,2.69-6,6c0,0.61,0.09,1.19,0.26,1.74C5.51,8.19,5,7.15,5,6c0-3.87,3.13-7,7-7 c3.87,0,7,3.13,7,7c0,1.15-0.51,2.19-1.26,2.74c0.17-0.55,0.26-1.13,0.26-1.74C18,3.69,15.31,1,12,1z"/>
+    <!-- Body / Dress -->
+    <path
+        android:fillColor="#2488B7"
+        android:pathData="M12,14c-4.42,0 -8,1.79 -8,4v2h16v-2c0,-2.21 -3.58,-4 -8,-4z"/>
+</vector>
